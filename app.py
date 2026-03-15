@@ -71,7 +71,7 @@ if uploaded_file is not None:
 
         if pred == 0:
 
-            st.warning("""
+            st.error("""
 
 ### 🌿 Early Blight Tips
 
