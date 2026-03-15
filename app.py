@@ -85,7 +85,7 @@ if uploaded_file is not None:
 
         elif pred == 1:
 
-            st.warning("""
+            st.error("""
 
 ### 🌿 Late Blight Tips
 
